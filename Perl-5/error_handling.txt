@@ -1,0 +1,1 @@
+This file can be used to work on error_handling.pl script.
